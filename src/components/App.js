@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div id="links">
           <Link to="/">Home</Link>
           <Link to="/blog">Blog</Link>
