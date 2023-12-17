@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db1a2c4e.chunk.css",
+    "main.js": "/static/js/main.c85c652d.chunk.js",
+    "main.js.map": "/static/js/main.c85c652d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d8362a8a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d8362a8a.js.map",
+    "static/js/2.dafdef3f.chunk.js": "/static/js/2.dafdef3f.chunk.js",
+    "static/js/2.dafdef3f.chunk.js.map": "/static/js/2.dafdef3f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.db1a2c4e.chunk.css.map": "/static/css/main.db1a2c4e.chunk.css.map",
+    "static/js/2.dafdef3f.chunk.js.LICENSE.txt": "/static/js/2.dafdef3f.chunk.js.LICENSE.txt",
+    "static/media/3edabd_4ab0648779e6445ab97275c98203158d~mv2.0a666e85.png": "/static/media/3edabd_4ab0648779e6445ab97275c98203158d~mv2.0a666e85.png",
+    "static/media/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.64776b64.webp": "/static/media/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.64776b64.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8362a8a.js",
+    "static/js/2.dafdef3f.chunk.js",
+    "static/css/main.db1a2c4e.chunk.css",
+    "static/js/main.c85c652d.chunk.js"
+  ]
+}
